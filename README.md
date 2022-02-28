@@ -1,2 +1,2 @@
 # nft-visualizer
-Display a collection of NFTs
+Displays a collection of NFTs with data drawn from Pinata/ipfs
